@@ -1,0 +1,13 @@
+ <!-- Copy starts here. Replace the href and src attributes with your github links -->
+        <div class="col-lg-2 col-md-3 col-sm-6 mb-4">
+          <div class="card">
+		<a href="https://johnrex091.github.io/BSProfile/">
+            <img src="https://raw.githubusercontent.com/johnrex091/BSProfile/main/me3.jpeg" class="card-img-top" alt="CAGUIAT">
+		</a>
+            <div class="card-body">
+              <p class="card-title"><a href="https://johnrex091.github.io/BSProfile/">NAVARRO, JOHN REX</a></p>
+            </div>
+<div class="overlay">Submitted</div>
+          </div>
+        </div>
+	<!-- Copy ends here -->
